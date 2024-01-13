@@ -1,0 +1,7 @@
+Pedro;1;234;5464;
+Bejamin;2;4345;65;
+Jose Lui;8;2134;23;
+Antonia;5;212;3;
+Luis jose;4;3243;12;
+Altair;9;400;54;
+Kamilo;3;4567;36;
